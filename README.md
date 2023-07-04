@@ -19,13 +19,11 @@ npm install --global gulp-cli
 
     /src/ - папка для исходников
 
-    /src/fonts - тут будут шрифты
+    /src/imeges - картинки
 
-    /src/img - картинки
+    /src/js/main.js - основной файл скриптов
 
-    /src/js/script.js - основной файл скриптов
-
-    /src/scss/style.scss - файл стилей в формате scss
+    /src/style.scss - файл стилей
 
     /src/index.html - стартовый файл
 
